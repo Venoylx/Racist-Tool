@@ -24,7 +24,7 @@ Database Breaches Lookup ( API KEY REQUIRED obviously )
 FUD ( Fully Undetectable ) Discord Token / RoSecurity / Browser Cookies Grabber.
 
 # WIP Features
-* Create a issue to recommend a feature! *
+* Create a issue to recommend a feature! 
 _____________________________________
 
 FUD Remote Access Trojan
