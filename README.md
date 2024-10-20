@@ -17,7 +17,7 @@ _____________________________________
 
 Ip Lookup
 
-Gamertag / PSN Resolver
+Xbox Gamertag / PSN Resolver
 
 Database Breaches Lookup ( API KEY REQUIRED obviously )
 
